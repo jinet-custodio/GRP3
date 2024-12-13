@@ -35,6 +35,19 @@
 }
 
 
+
+/* section5 */
+
+.section5{
+  margin-top: 10vw;
+  margin-left: 5vw;
+  background-color: palevioletred;
+  width: 80vw;
+  margin: auto ;
+  margin-top: 15vw;
+}
+
+/* section5 */
 /* section4 */
 .div-wrapper {
   text-align: center;
@@ -126,4 +139,5 @@
 }
 
 /* end  of Section 1 */
+
 
