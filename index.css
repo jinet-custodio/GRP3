@@ -32,3 +32,25 @@
   color: white;
   font-family: "Bebas Neue";
 }
+/* Section 1 CSS */
+.box {
+    width: 90%;
+    background-color: lightgreen;
+    border: 2px solid black;
+    margin: 5vw auto;
+    height: 20vw;
+    border-radius: 2vw;
+    padding: 1vw;
+    text-align: center;
+    display: block;
+}
+
+.box h1 {
+    font-size: 3.2vw !important;
+}
+
+.box-text {
+    font-size: 1.5vw;
+}
+
+/* end  of Section 1 */
