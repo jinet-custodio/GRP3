@@ -32,6 +32,27 @@
   color: white;
   font-family: "Bebas Neue";
 }
+
+
+/* section3 */
+
+#member-image{
+  display: flex;
+}
+.title-section3{
+  font-family: "Wendy One";
+  font-weight: 400;
+  font-style: normal;
+  text-align: center;
+  margin-top: 2rem;
+}
+
+.card{
+  display: inline-block;
+  margin: 2rem;
+}
+/* section3 */
+
 /* Section 1 CSS */
 .box {
     width: 90%;
