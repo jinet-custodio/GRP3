@@ -34,6 +34,7 @@
   font-family: "Bebas Neue";
 }
 
+
 /* section4 */
 .div-wrapper {
   text-align: center;
@@ -82,3 +83,47 @@
   margin: 0 10px;
 }
 /* section4*/
+
+
+/* section3 */
+
+#member-image{
+  display: flex;
+}
+.title-section3{
+  font-family: "Wendy One";
+  font-weight: 400;
+  font-style: normal;
+  text-align: center;
+  margin-top: 2rem;
+}
+
+.card{
+  display: inline-block;
+  margin: 2rem;
+}
+/* section3 */
+
+/* Section 1 CSS */
+.box {
+    width: 90%;
+    background-color: lightgreen;
+    border: 2px solid black;
+    margin: 5vw auto;
+    height: 20vw;
+    border-radius: 2vw;
+    padding: 1vw;
+    text-align: center;
+    display: block;
+}
+
+.box h1 {
+    font-size: 3.2vw !important;
+}
+
+.box-text {
+    font-size: 1.5vw;
+}
+
+/* end  of Section 1 */
+
