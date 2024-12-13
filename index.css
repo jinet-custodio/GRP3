@@ -1,0 +1,24 @@
+.section2{
+    border: 1px solid black;
+    width: 90%;
+    margin: 2vw auto;
+    padding: 20px;
+    height: 30vh;
+    background-color: lightcoral;
+    border-radius: 5px;
+}
+
+.column{
+    display: inline-block;
+
+    margin: -3vw 10px 10vw 10px;
+    gap: 5vw;
+    border: 1px solid black;
+    background-color: white;
+    padding: 10px;
+
+}
+
+.columns {
+    float: right;
+}
